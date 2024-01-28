@@ -1,4 +1,8 @@
 ﻿# Classes & Objects
+ ### Class vehicle contains data members -> engineNo, vCount, model, color
+ ### getters/setters
+ ### default constructor, param constructor, copy constructor, destructor
+ ### display method
 	// basics of classes and objects
 	#include <iostream>
 	#include <cstring>   // for string functions
